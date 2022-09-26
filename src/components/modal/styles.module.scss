@@ -1,0 +1,32 @@
+.dataContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.powerstateContainer {
+    padding: 20px;
+    text-transform: capitalize;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.powerstateText {
+    cursor: pointer
+}
+
+.modalCard {
+    display: flex;
+}
+.modal-content{
+    width: unset !important;
+  }
+  .modal.show .modal-dialog {
+    transform: none;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }

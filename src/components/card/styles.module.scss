@@ -1,0 +1,48 @@
+.heroCard {
+    border: 1px solid #d5d9e7;
+    border-radius: 8px;
+    flex-direction: column;
+    margin: 15px;
+    width: 220px;
+  }
+  
+  .cardImage {
+    width: 163px;
+    height: 180px;
+  }
+  .heading{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .heroName {
+    background-color: #f0f8ff;
+    border: 2px solid #f0f8ff;
+    border-radius: 4px;
+    color: #00535a;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 15px 0;
+    padding: 0 5px;
+    text-transform: uppercase;
+    width: fit-content;
+  }
+  
+  
+  
+  
+  
+  
+  .highlight{
+    box-shadow: 0 0 5px 5px red;
+  }
+  
+  .modalcard{
+    width: 150px;
+    
+    border: 1px solid #d5d9e7;
+      border-radius: 8px;
+      flex-direction: column;
+      margin: 15px;
+  }

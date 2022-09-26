@@ -1,0 +1,28 @@
+.buttonContainer {
+  text-align: center;
+  justify-content: center;
+  
+  display: flex;
+  margin-top:  14px;
+  padding-right: 20px;
+}
+
+.dataContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.comparisionButton {
+  border: 2px solid #7444fd;
+  border-radius: 4px;
+  color: #fff;
+  background-color: #7444fd;
+  min-width: 120px;
+  height: 40px;
+  padding: 0 23px;
+  text-align: center;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  transition-property: color;
+  transition: all .3s ease;
+}
